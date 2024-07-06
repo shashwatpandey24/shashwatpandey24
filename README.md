@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shashwatpandey24
+- 👋 Hi, I’m shashwat pandey
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
 - 📫 How to reach me ig shivu_pandey_24

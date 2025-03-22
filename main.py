@@ -12,7 +12,7 @@ root.geometry("1366x768+0+0")
 
 
 root.config(bg="#ffc400")
-#bg = ImageTk.PhotoImage(file="library.jpg")
+# bg = ImageTk.PhotoImage(file="library.jpg")
 
 photo = PhotoImage(file="buttons.png")
 resizeImg = photo.subsample(6,6)
